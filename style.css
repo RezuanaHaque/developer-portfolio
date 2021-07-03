@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.clrofname{
+    color: palevioletred;
+}
+.display{
+    display: flex;
+}
+.halfwidth{
+    width: 60%;
+    padding-left: 3%;
+}
+.halfwidth1{
+    width: 40%;
+}
+#hireme{
+    text-decoration: none;
+    background-image: linear-gradient(pink,hotpink);
+    padding:10px 40px;
+    color:black;
+    font-weight: 700;
+    font-size: 20px;
+}
