@@ -6,26 +6,34 @@ h1{
     font-size: 50px;
 }
 .clrofname{
-    color: palevioletred;
+    color: cadetblue;
 }
 .display{
     display: flex;
-    background-image:url(images/Untitled\ design\ \(1\).png);
+    background-image:url(images/new.png);
     background-repeat: no-repeat;
     background-size: cover;
+    margin-bottom: 100px;
+}
+.display img{
+    width: 100%;
+    border-radius: 50%;
 }
 .halfwidth{
-    width: 60%;
+    width: 50%;
     padding-left: 3%;
+    padding-top: 5%;
+    font-weight: 500;
 }
 .halfwidth1{
-    width: 40%;
+    width: 50%;
+    border-image-outset: 10px;
 }
 #hireme{
     text-decoration: none;
-    background-image: linear-gradient(pink,hotpink);
+    background-image: linear-gradient(grey,rgb(48, 47, 47));
     padding:10px 40px;
-    color:black;
+    color:whitesmoke;
     font-weight: 700;
     font-size: 20px;
 }
