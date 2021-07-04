@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin:auto;
 }
 h1{
     font-size: 50px;
@@ -9,6 +10,9 @@ h1{
 }
 .display{
     display: flex;
+    background-image:url(images/Untitled\ design\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .halfwidth{
     width: 60%;
