@@ -27,7 +27,6 @@ h1{
 }
 .halfwidth1{
     width: 50%;
-    border-image-outset: 10px;
 }
 #hireme{
     text-decoration: none;
@@ -36,4 +35,32 @@ h1{
     color:whitesmoke;
     font-weight: 700;
     font-size: 20px;
+}
+.noflex{
+    display: flex;
+
+}
+.section3{
+    padding-left: 3%;
+    margin-bottom: 200px;
+    margin-right: 3%;
+
+}
+.exper{
+    border-left: 6px solid;
+    border-image: linear-gradient(rgb(156, 204, 206), teal );
+    border-image-slice: 1;
+    box-shadow: 5px 5px 35px 5px gray;
+    margin-right: 3%;
+    margin-left: 3%;
+    width: 44%;
+    padding-bottom: 6%;
+
+}
+h2{
+    font-size: 35px;
+}
+footer p{
+    text-align: center;
+    color:grey;
 }
